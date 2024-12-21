@@ -1,0 +1,267 @@
+header{
+    background-color: beige;
+}
+.logosvg{
+    display: block;
+    margin: auto;
+}
+nav{
+    font-family: "Fugaz One", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black; 
+}
+nav a{
+    text-decoration: none;
+    margin-top: 1rem;
+    background-color: #5b0c0c;
+    padding: .2rem;
+    padding-left: .9rem;
+    padding-right: .9rem;
+    color: white;
+}
+nav a:hover{
+    color: #5b0c0c;
+    background-color: #e46387;
+}
+h1{
+    font-family: "Fugaz One", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 3rem;
+}
+h2{
+    font-family: "Fugaz One", serif;
+    font-weight: 400;
+    font-style: normal; 
+}
+h3{
+    font-family: "Fugaz One", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.welcomepage p{
+    background-color: #1f2122;
+    padding: 1.5rem;
+    font-family: "Rajdhani", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 5rem;
+}
+body{
+    color: white;
+    background-color: black;
+}
+footer{
+    font-family: "Fugaz One", serif;
+    font-size: .9rem;
+    text-align: center;
+    background-color: #5b0c0c;
+    padding-top: .1rem;
+    padding-bottom: .1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.homepageimg{
+    max-width: 30rem;
+}
+.homepagejoin{
+    font-size: 2rem;
+    text-align: center;
+    background-image: url(images/brick-wall.jpg);
+    margin: 1rem;
+    padding-top: .5rem;
+    padding-bottom: 2rem;
+    margin-bottom: 10rem;
+    margin-top: 5rem;
+}
+.hpjoin{
+    font-family: "Fugaz One", serif;;
+    color: white;
+    text-decoration: none;
+    margin: 0;
+    font-size: 1.2rem;
+    background-color: #071279;
+    margin: 5rem;
+    padding: 1rem;
+}
+.about p{
+    background-color: #1f2122;
+    padding: 1.5rem;
+    font-family: "Rajdhani", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 5rem;
+}
+.tavern img{
+    max-width: 30rem;
+    margin-bottom: 5rem;
+}
+iframe{
+    max-width: 25rem;
+    margin-bottom: 5rem;
+}
+.tylerdurden img{
+    max-width: 16rem;
+    display: flex;
+    align-items: center;
+}
+.founderbio{
+    background-image: url(images/brick-wall.jpg);
+    padding-right: 1rem;
+    padding-bottom: 1rem; 
+    margin-bottom: 10rem;
+}
+#founder{
+    color: white;
+    text-align: left;
+    margin-left: 3rem;
+    font-size: 3rem;
+    padding-top: 2rem;
+}
+.founderp{
+    color: white;
+    font-family: "Rajdhani", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+li{
+    font-family: "Rajdhani", serif;
+}
+.locate{
+    background-color: #1f2122;
+    padding-left: 1rem;
+    padding-top: .5rem;
+    padding-bottom: 1rem;
+    margin-bottom: 10rem;
+}
+.locatep{
+    text-align: center;
+    font-family: "Rajdhani", serif;
+    font-weight: 400;
+    font-style: normal; 
+    margin-bottom: 3rem;
+}
+.locateh2{
+    color: white;
+    font-size: 2rem;
+    background-image: url(images/brick-wall.jpg);
+    padding: 2rem;
+    text-align: center;
+    margin: 1;
+}
+.gain{
+    background-color: #1f2122;
+    padding-top: .5rem;
+    padding-bottom: 1rem;
+    margin-bottom: 5rem;
+}
+.join{
+    padding: 2rem;
+    background-image: url(images/brick-wall.jpg);
+    margin-bottom: 10rem;
+}
+.joinp{
+    background-color: #1f2122;
+    font-family: "Rajdhani", serif;
+    font-weight: 400;
+    font-style: normal; 
+    margin-bottom: 5rem;
+    padding: 1rem;
+}
+.joinh2{
+    text-align: center;
+    font-size: 2rem;
+}
+.joinb{
+    font-family: "Fugaz One", serif;;
+    color: white;
+    text-decoration: none;
+    margin: 0;
+    font-size: 1.2rem;
+    background-color: #071279;
+    margin: 5rem;
+    padding: 1rem;
+}
+.angelface{
+    background-color: #1f2122;
+    padding: 2rem;
+    margin: 2rem;
+    margin-bottom: 5rem;
+}
+.angelface img{
+    max-width: 15rem;
+}
+.angelface p{
+    font-family: "Rajdhani", serif;
+    font-weight: 400;
+    font-style: normal; 
+}
+.bobpaulson{
+    background-color: #1f2122;
+    padding: 2rem;
+    margin: 2rem;
+    margin-bottom: 5rem;
+}
+.bobpaulson img{
+    max-width: 15rem;
+}
+.bobpaulson p{
+    font-family: "Rajdhani", serif;
+    font-weight: 400;
+    font-style: normal; 
+}
+.themechanic{
+    background-color: #1f2122;
+    padding: 2rem;
+    margin: 2rem;
+    margin-bottom: 10rem;
+}
+.themechanic img{
+    max-width: 15rem;
+}
+.themechanic p{
+    font-family: "Rajdhani", serif;
+    font-weight: 400;
+    font-style: normal; 
+}
+.reels p{
+    font-family: "Rajdhani", serif;
+    font-weight: 400;
+    font-style: normal; 
+}
+.narrator{
+    background-color: #1f2122;
+    padding: 2rem;
+    margin: .5rem;
+    margin-bottom: 5rem;
+}
+.narrator iframe{
+    max-width: 25rem;
+    margin-bottom: 2rem;
+}
+.narrator img{
+    margin-top: 2rem;
+    max-width: 15rem;
+}
+.johntucker{
+    background-color: #1f2122;
+    padding: 2rem;
+    margin: .5rem;
+    margin-bottom: 5rem;
+}
+.johntucker iframe{
+    max-width: 25rem;
+    margin-bottom: 2rem;
+}
+.johntucker img{
+    margin-top: 2rem;
+    max-width: 20rem;
+}
+
